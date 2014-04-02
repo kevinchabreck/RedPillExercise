@@ -2,7 +2,7 @@ var util = require('util');
 var fs = require('fs');
 
 /**@program RedPillExercise
-  *@author  Kevin Chabreck
+  *@author  Kevin Chabreck, Adam Van Hine
   *@date    3/12/2013
   *@description This program reads a local file named '1000-snapshots-overlap-with-Feb-2012.json',
   *             parses the data into an array of "Snapshots," and processes the array to answer 3
